@@ -1,0 +1,449 @@
+1509630541201	geckodriver	INFO	geckodriver 0.19.1
+1509630541248	geckodriver	INFO	Listening on 127.0.0.1:53890
+1509630543310	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.OAnTDkBQwP7L"
+1509630544779	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509630546752	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lianxiaorui\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509630552641	Marionette	INFO	Listening on port 53896
+1509630553013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509630553206	Marionette	DEBUG	Register listener.js for window 4294967297
+1509630553328	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509630553705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509630553706	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509630555918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/login.php"
+1509630559232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509630564908	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/login.php"
+1509630574724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\lianxiaorui\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=32e79058ae5d2553, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=32e79058ae5d2553, line 1: unreachable code after return statement
+1509630579182	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/u/2413243573/home?wvr=5&lf=reg"
+1509630579557	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/u/2413243573/home?wvr=5&lf=reg"
+1509630579558	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/u/2413243573/home?wvr=5&lf=reg"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+1509630580804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630580730, line 174: unreachable code after return statement
+1509630583979	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6"
+1509630587734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509630588215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509630588582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509630588610	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630588917	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630588919	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630589787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1509630589788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1509630590469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+1509630593370	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630594125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509630594507	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630591169, line 139: unreachable code after return statement
+1509630595159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509630595252	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630595568	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630595570	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+1509630596086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1509630596114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=bc9012372d220df6, line 1: unreachable code after return statement
+1509630596745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509630596713, line 139: unreachable code after return statement
+1509630600011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1509630600013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1509630600018	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\lianxiaorui\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7752] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7752] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+d" for "http://weibo.com/2413243573/profile?topnav=1&wvr=6&is_all=1"
+d" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608449530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450975"
+1509608449531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450974"
+1509608449533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509608453814	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608451821, line 174: unreachable code after return statement
+1509608456496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608456893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608457284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608457549	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608458349	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608458353	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608459148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450980"
+1509608459149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450979"
+1509608459150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509608462921	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608460897, line 174: unreachable code after return statement
+1509608466358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608466775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608467127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608467169	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608467913	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608467915	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608469087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608469183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450985"
+1509608469184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450984"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return 1509608718834	Marionette	DEBUG	Register listener.js for window 8589934867
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509609063064	Marionette	DEBUG	Register listener.js for window 8589934882
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509609131722	Marionette	DEBUG	Register listener.js for window 8589934899
+1509609216068	Marionette	DEBUG	Register listener.js for window 8589934917
+1509609242621	Marionette	DEBUG	Register listener.js for window 8589934944
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509609571165	Marionette	DEBUG	Register listener.js for window 8589934961
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509610185763	Marionette	DEBUG	Register listener.js for window 8589934988
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+1509610387407	Marionette	DEBUG	Register listener.js for window 8589935005
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509610417084	Marionette	DEBUG	Register listener.js for window 8589935020
+1509610422788	Marionette	DEBUG	Register listener.js for window 8589935032
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+1509610527909	Marionette	DEBUG	Register listener.js for window 8589935064
+1509611215164	Marionette	DEBUG	Register listener.js for window 8589935110
+1509611925993	Marionette	DEBUG	Register listener.js for window 8589935115
+1509612134122	Marionette	DEBUG	Register listener.js for window 8589935119
+1509612169077	Marionette	DEBUG	Register listener.js for window 8589935123
+1509612259945	Marionette	DEBUG	Register listener.js for window 8589935173
+1509612285367	Marionette	DEBUG	Register listener.js for window 8589935191
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+1509612695659	Marionette	DEBUG	Register listener.js for window 8589935206
+1509612714002	Marionette	DEBUG	Register listener.js for window 8589935211
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn//atsuggest/atsuggest.js, line 588: TypeError: obj is null
+1509612734287	Marionette	DEBUG	Register listener.js for window 8589935240
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+1509613093854	Marionette	DEBUG	Register listener.js for window 8589935337
+1509613264675	Marionette	DEBUG	Register listener.js for window 10737418241
+Unable to read VR Path Registry from C:\Users\lianxiaorui\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509613782132	Marionette	DEBUG	Register listener.js for window 8589935342
+JavaScript warning: http://www.360doc.com/js/jquery1.js, line 1: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/dcnm?rdid=2898860&dc=3&di=u2898860&dri=0&dis=1&dai=1&ps=2130x219&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1509613792434&ti=selenium%20%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8IE%E6%B5%8F%E8%A7%88%E5%99%A8&ari=2&dbv=0&drs=1&pcs=1519x758&pss=1519x2372&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1487662299&rw=320&ltu=http%3A%2F%2Fwww.360doc.com%2Fcontent%2F15%2F0209%2F17%2F20107535_447492706.shtml&liu=http%3A%2F%2Fwww.360doc.com%2Fad%2Funderad.html%3Ft%3D2017022201&ltr=http%3A%2F%2Fwww.360doc.com%2Fcontent%2F15%2F0209%2F17%2F20107535_447492706.shtml&ecd=1&uc=1536x826&pis=676x100&sr=1536x864&tcn=1509613792&qn=9367d6adad6a287a&tt=1509613792330.123.1195.1214, line 117: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/dcnm?rdid=2898860&dc=3&di=u2898860&dri=0&dis=1&dai=1&ps=2130x219&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1509613792434&ti=selenium%20%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8IE%E6%B5%8F%E8%A7%88%E5%99%A8&ari=2&dbv=0&drs=1&pcs=1519x758&pss=1519x2372&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1487662299&rw=320&ltu=http%3A%2F%2Fwww.360doc.com%2Fcontent%2F15%2F0209%2F17%2F20107535_447492706.shtml&liu=http%3A%2F%2Fwww.360doc.com%2Fad%2Funderad.html%3Ft%3D2017022201&ltr=http%3A%2F%2Fwww.360doc.com%2Fcontent%2F15%2F0209%2F17%2F20107535_447492706.shtml&ecd=1&uc=1536x826&pis=676x100&sr=1536x864&tcn=1509613792&qn=9367d6adad6a287a&tt=1509613792330.123.1195.1214, line 117: unreachable code after return statement
+JavaScript warning: http://www.360doc.com/js/jquery1.js, line 1: unreachable code after return statement
+JavaScript error: http://material.mediav.com/ckmap.htm, line 5: TypeError: queryStr is undefined
+JavaScript error: http://yunpan.360.cn/user/getrequesturl?cross_domain_callback=QWJsonp1509613815940&t=0.8839610304522717, line 1: SyntaxError: expected expression, got '<'
+1509613834964	Marionette	DEBUG	Register listener.js for window 8589935435
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+1509613923813	Marionette	DEBUG	Register listener.js for window 8589935451
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509614137934	Marionette	DEBUG	Register listener.js for window 8589935458
+1509614508919	Marionette	DEBUG	Register listener.js for window 8589935463
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 25: ReferenceError: $ is not defined
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 39: ReferenceError: $ is not defined
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 74: TypeError: c_a_tb1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 75: TypeError: c_a_tb2 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 79: TypeError: c_a_tb3 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 80: TypeError: c_a_tb4 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 84: TypeError: c_a_tb5 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 85: TypeError: c_a_tb6 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 95: TypeError: c_a_head1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 96: TypeError: c_a_head2 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 111: TypeError: bzsearch_code_channel is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 117: TypeError: c_a_head3 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 118: TypeError: c_a_head4 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 125: TypeError: c_a_tb7 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 126: TypeError: c_a_tb8 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 130: TypeError: c_a_tb9 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 131: TypeError: c_a_tb10 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 135: TypeError: c_a_tb11 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 136: TypeError: c_a_tb12 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 164: TypeError: c_a_8_1_1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 167: TypeError: c_m_l_zy is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 176: TypeError: c_a_newsCon1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 177: TypeError: c_a_newsCon2 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 180: TypeError: c_a_newsCon3 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 181: TypeError: c_a_newsCon4 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 185: TypeError: c_a_6 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 203: TypeError: c_a_db1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 204: TypeError: c_a_db2 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 210: TypeError: c_a_db3 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 211: ReferenceError: c_a_db4 is not defined
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 219: TypeError: c_a_db5_1_1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 220: TypeError: c_a_db6_1_1 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 222: TypeError: c_a_zan is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 230: TypeError: c_a_zan_fx is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 263: TypeError: c_a_db7 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 264: TypeError: c_a_db8 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 271: TypeError: c_a_db9 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 277: TypeError: c_a_db11 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 287: TypeError: c_a_db13 is not a function
+JavaScript error: http://www.makaidong.com/%E5%8D%9A%E5%AE%A2%E5%9B%AD%E7%9A%84/34586.shtml, line 288: TypeError: c_a_db14 is not a function
+JavaScript error: http://changyan.itc.cn/js/lib/jquery-placeholder.js, line 1: TypeError: $ is undefined
+JavaScript error: http://changyan.sohu.com/api/2/user/info?callback=jQuery1704120074206488792_1509614517094&client_id=cyr2b6a11&login_terminal=PC&_=1509614523737, line 1: TypeError: jQuery1704120074206488792_1509614517094 is not a function
+1509614782606	Marionette	DEBUG	Register listener.js for window 8589935472
+JavaScript error: http://api.share.baidu.com/getnum?url=http%3A%2F%2Fbbs.csdn.net%2Ftopics%2F391854284&callback=bdShare.fn._getShare&type=load&t=1509614786726, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+1509614842089	Marionette	DEBUG	Register listener.js for window 8589935505
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509614861544	Marionette	DEBUG	Register listener.js for window 8589935522
+1509614867443	Marionette	DEBUG	Register listener.js for window 8589935526
+1509614894870	Marionette	DEBUG	Register listener.js for window 8589935530
+JavaScript error: http://api.share.baidu.com/getnum?url=http%3A%2F%2Fbbs.csdn.net%2Ftopics%2F391000290&callback=bdShare.fn._getShare&type=load&t=1509614898808, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 500: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509615010663	Marionette	DEBUG	Register listener.js for window 8589935563
+1509615056990	Marionette	DEBUG	Register listener.js for window 8589935572
+1509615106908	Marionette	DEBUG	Register listener.js for window 8589935577
+1509615114720	Marionette	DEBUG	Register listener.js for window 8589935589
+1509615145998	Marionette	DEBUG	Register listener.js for window 8589935593
+1509615161840	Marionette	DEBUG	Register listener.js for window 8589935598
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+1509615173966	Marionette	DEBUG	Register listener.js for window 8589935603
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+1509615185966	Marionette	DEBUG	Register listener.js for window 8589935621
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509616089116	Marionette	DEBUG	Register listener.js for window 8589935639
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=32e79058ae5d2553, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=32e79058ae5d2553, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509616092803, line 139: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1509617248964	Marionette	DEBUG	Register listener.js for window 8589935648
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 4: Error: Syntax error, unrecognized expression: #custom{customtype}
+JavaScript warning: http://static.blog.csdn.net/Skin/skin3-template/js/skin2017.js?v=2017.042, line 2494: unreachable code after return statement
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E8%8E%B7%E5%8F%96abiaoqiiiurl&json=1&p=3&sid=1427_21103_24880_20930&req=2&bs=selenium%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8Durl&pbs=selenium%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8Durl&csor=20&pwd=selenium%20%E8%8E%B7%E5%8F%96abiaoqiiurl&cb=jQuery1102008094798958050042_1509607342351&_=1509607342861, line 1: TypeError: jQuery1102008094798958050042_1509607342351 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E8%8E%B7%E5%8F%96abiaoqiiianurl&json=1&p=3&sid=1427_21103_24880_20930&req=2&bs=selenium%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8Durl&pbs=selenium%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8Durl&csor=22&pwd=selenium%20%E8%8E%B7%E5%8F%96abiaoqiiiaurl&cb=jQuery1102008094798958050042_1509607342351&_=1509607342863, line 1: TypeError: jQuery1102008094798958050042_1509607342351 is not a function
+1509618612171	Marionette	DEBUG	Register listener.js for window 8589935665
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 1032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+js/webim.js?v=1509608633067, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 139: unreachable code after return statement
+1509608638929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608633067, line 174: unreachable code after return statement
+1509608640159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608640321	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608641364	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608641366	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608642374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608642376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451050"
+1509608642377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451049"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509608652202	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608654621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 139: unreachable code after return statement
+1509608656741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608651550, line 174: unreachable code after return statement
+1509608657890	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608657940	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608658761	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608658765	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608659609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451055"
+1509608659611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451054"
+1509608660003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509608668879	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608670728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608672201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 139: unreachable code after return statement
+1509608672889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509608672931	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509608668576, line 174: unreachable code after return statement
+1509608673581	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608673582	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608674393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451060"
+1509608674393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442451059"
+1509608674395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509608684167	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509608684315	Marionette	INFO	New connections will no longer be accepted
+[Child 8152] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+121538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599113284, line 174: unreachable code after return statement
+1509599122285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509599122744	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599123433	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599123436	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599124175	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1509599124176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967406"
+1509599125521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509599131266	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 139: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 172: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 174: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 198: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 200: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 207: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 139: unreachable code after return statement
+1509599138216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509599139218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1509599126654, line 174: unreachable code after return statement
+1509599140047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509599140171	Marionette	DEBUG	Received DOM event "beforeunload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599140843	Marionette	DEBUG	Received DOM event "pagehide" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599140845	Marionette	DEBUG	Received DOM event "unload" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599141702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599141709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1509599141711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967411"
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+JavaScript warning: http://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=817f08b4855a5bc0, line 1: unreachable code after return statement
+1509599154788	Marionette	DEBUG	Received DOM event "pageshow" for "http://weibo.com/2413243573/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1"
+1509599155841	Marionette	INFO	New connections will no longer be accepted
